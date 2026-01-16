@@ -1,0 +1,4 @@
+ yt-dlp 'VIMEOLÄNK' --cookies 'C:\Users\...\vimeo.com_cookies.txt'
+
+ chrome extension 
+ https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
